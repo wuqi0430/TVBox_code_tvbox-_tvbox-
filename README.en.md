@@ -1,36 +1,19 @@
-# tvbox源码
+tvbox交流QQ群：879811030
 
-#### Description
-tvbox源码，经过完善，更好用，修复大部分bug
+配置文件，可以自行更改。直接覆盖site.json文件即可
 
-#### Software Architecture
-Software architecture description
+配置文件格式示例：
+http://www.tvboxx.top/tv/xiong.json
+================================================
+tvbox源码，网络大神稳定维护播放接口，更好用易用，放心使用！
 
-#### Installation
+代码基于github上的大牛所开源 CatVodTVOfficial TVBoxOSC
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+影片资源和接口全部来源于互联网
 
-#### Instructions
+本人空闲时间研磨，修复大部分bug，更好用易用
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+有兴趣的同学可以一起研究，
 
-#### Contribution
+欢迎相互探讨
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
